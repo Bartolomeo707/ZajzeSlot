@@ -77,9 +77,9 @@ namespace ZajzeSlot {
             return wynik;
         }
 
-        static int IntPow(int x, uint pow)
+        static BigInteger IntPow(BigInteger x, uint pow)
         {
-            int ret = 1;
+            BigInteger ret = 1;
             while (pow != 0)
             {
                 if ((pow & 1) == 1)
