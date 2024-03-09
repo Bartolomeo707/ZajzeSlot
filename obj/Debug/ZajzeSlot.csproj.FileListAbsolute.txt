@@ -1,0 +1,7 @@
+C:\Users\barto\OneDrive\Dokumenty\C#\ZajzeSlot\ZajzeSlot\bin\Debug\ZajzeSlot.exe.config
+C:\Users\barto\OneDrive\Dokumenty\C#\ZajzeSlot\ZajzeSlot\bin\Debug\ZajzeSlot.exe
+C:\Users\barto\OneDrive\Dokumenty\C#\ZajzeSlot\ZajzeSlot\bin\Debug\ZajzeSlot.pdb
+C:\Users\barto\OneDrive\Dokumenty\C#\ZajzeSlot\ZajzeSlot\obj\Debug\ZajzeSlot.csproj.AssemblyReference.cache
+C:\Users\barto\OneDrive\Dokumenty\C#\ZajzeSlot\ZajzeSlot\obj\Debug\ZajzeSlot.csproj.CoreCompileInputs.cache
+C:\Users\barto\OneDrive\Dokumenty\C#\ZajzeSlot\ZajzeSlot\obj\Debug\ZajzeSlot.exe
+C:\Users\barto\OneDrive\Dokumenty\C#\ZajzeSlot\ZajzeSlot\obj\Debug\ZajzeSlot.pdb
