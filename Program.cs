@@ -122,11 +122,10 @@ namespace ZajzeSlot {
 
         static void PierwszawChujDuza () {
             uint n = 3;
-            Console.WriteLine(IntPow(2, n) - 1);
             while (true) {
-                BigInteger i = Sqrt((IntPow(2, n) - 1));
+                BigInteger i = 2;
                 bool CzyPierwsza = true;
-                while (i >= 2)
+                while (i <= Sqrt((IntPow(2, n) - 1)))
                 {
                     if ((IntPow(2, n) - 1) % i == 0)
                     {
@@ -134,7 +133,7 @@ namespace ZajzeSlot {
                         Console.WriteLine($"{IntPow(2, n) - 1} (n={n}) nie jest liczbą pierwszą, ponieważ dzieli się przez {i} z reztą {(IntPow(2, n) - 1) % i}");
                         break;
                     }
-                    i--;
+                    i++;
                 }
                 if (CzyPierwsza) {
                     Console.WriteLine($"{IntPow(2, n) - 1} (n={n}) jest liczbą pierwszą");
